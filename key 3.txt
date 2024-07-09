@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=Nakuru&appid=b3c47bb5f2a588ad29a74b6ddcb9273f&units=metric
